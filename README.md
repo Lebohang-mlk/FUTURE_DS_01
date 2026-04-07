@@ -1,3 +1,4 @@
+<img width="1771" height="572" alt="Screenshot 2026-03-17 103838" src="https://github.com/user-attachments/assets/acd1e02e-097d-42ca-ad0a-2c758804cb5a" />
 # Online Retail Sales Analysis Dashboard
 
 ## Project Overview
